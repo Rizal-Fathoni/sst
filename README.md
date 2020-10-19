@@ -1,2 +1,34 @@
-# sst
-# sst adalah PT Sarana Sumber Tirta yang telah berdiri sejak Tahun 2006. PT Sarana Sumber Tirta sendiri sering disebut pabrik viola karena merupakan salah satu produk yang sering di kenal oleh masyarakat terutama di Pulau Jawa. PT Sarana Sumber Tirta memiliki beberapa lokasi produksi baik di Pulau Jawa maupun di luar Pulau Jawa 
+Aplikasi Sistem Informasi Administrator (SISINMIN)
+=========
+
+Penjelasan
+------------
+Aplikasi ini digunakan untuk permintaan barang dari bagian unit pengadaan kemudian barang yang telah diminta mengunggu persetujuan dari bagian gudang,
+apabila gudang menyetujui maka barang yang diminta boleh di keluarkaan dengan bukti surat peneluaran barang.
+
+Fitur
+------------
+1. Twitter Bootstrap
+2. Datatables
+3. PHP Mysqli
+4. Template AdminLTE
+5. Ajax
+
+Environment recomended
+------------
+
+- Webserver Apache 2.x (http://www.apachefriends.org, XAMPP 1.7.x) 
+- PHP 5.x (http://www.apachefriends.org, XAMPP 1.7.x)
+- MySQL 5.x (http://www.apachefriends.org, XAMPP 1.7.x)
+
+Installation
+------------
+Cara Instal
+1. Upload data di server php anda 
+2. Import Database MySQL ke PHPMyAdmin
+3. Jalankan di browser 
+
+Copyright & License
+-------
+Copyright (c) 2020 Rizal Fathoni
+[GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
