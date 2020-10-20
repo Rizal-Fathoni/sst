@@ -110,7 +110,7 @@ refresh=setTimeout("action()",speed);}action();
 </script>
 	<!--<title>PT SST - CIREBON</title>-->
 	<!-- Icon  -->
-	<link rel="shortcut icon" type="image/icon" href="gambar/iconsst.jpg">
+	<link rel="shortcut icon" type="image/icon" href="https://rizal-fathoni.github.io/sst/gambar/iconsst.jpg">
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="assets/bootstrap/css/custom.css" rel="stylesheet">
